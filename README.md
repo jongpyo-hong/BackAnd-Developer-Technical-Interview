@@ -69,7 +69,7 @@
 ### 9. 원시타입, 참조타입
 
 - 원시타입은 Java에서 단 8개밖에 존재하지 않는 타입.
-    - boolean(1byte), byte(1byte), char(2byte), short(2byte), int(4byte), float(4byte), Long(8byte), double(8byte)
+    - boolean(1byte), byte(1byte), char(2byte), short(2byte), int(4byte), float(4byte), long(8byte), double(8byte)
 - 원시타입 외 모든 타입, Object 클래스 이거나 이를 상속하는 클래스
 
 ### 10. Java8에서 추가된 기능
