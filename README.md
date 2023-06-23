@@ -25,8 +25,7 @@
     - 클래스로더
     - 실행 엔진
     - 런타임 데이터 에어리어
-    - JNI
-    - Native Method Library
+    - JNI + Native Method Library
 
 - 실행 방식
     - 자바 컴파일러가 .java 코드를 읽어 .class로 변환
